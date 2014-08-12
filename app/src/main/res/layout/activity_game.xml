@@ -5,7 +5,7 @@
     android:background="#0099cc"
     tools:context=".GameActivity">
 
-    <SurfaceView
+    <vbc.android.nullscriptjava.GameSurfaceView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/gameView"
